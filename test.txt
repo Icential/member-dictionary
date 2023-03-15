@@ -1,0 +1,30 @@
+First Name: Logan
+Last Name: Thackeray
+Street Address: Imperial Glass 2.a
+City: Divinity's Reach
+State: Kryta
+Zip: 93201
+Email: thackeray@hotmail.com
+Phone Number: 093391392127
+Primary Key: 3
+
+First Name: Caithe
+Last Name: Everbloom
+Street Address: Trail Quartz No.4
+City: The Grove
+State: Maguuma
+Zip: 84320
+Email: caithe@hotmail.com
+Phone Number: 188398493893
+Primary Key: 2
+
+First Name: Rytlock 
+Last Name: Brimstone
+Street Address: Imperator's Core War Corridor
+City: Black Citadel
+State: Ascalon
+Zip: 39204
+Email: ryt@hotmail.com
+Phone Number: 819383029932
+Primary Key: 5
+
